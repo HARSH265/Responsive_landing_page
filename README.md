@@ -1,8 +1,8 @@
 # Responsive Landing Page YellowBlack
 
-## Learn to Code
 
-### view at -
+
+## view at -
 
 ![preview img](/preview.jpg)
 
